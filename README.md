@@ -1,2 +1,2 @@
-# CursoemVideo
- repositório Curso em Video
+# Curso em Video
+ repositório Git e GitHub - Curso em Video
